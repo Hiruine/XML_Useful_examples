@@ -23,3 +23,7 @@ The most common URI is the Uniform Resource Locator (URL) which identifies an In
 
 # The XML DOM is a standard 
 for how to get, change, add, or delete XML elements.
+xmlDoc - the XML DOM object created by the parser.
+getElementsByTagName("title")[0] - get the first <title> element
+childNodes[0] - the first child of the <title> element (the text node)
+nodeValue - the value of the node (the text itself)
