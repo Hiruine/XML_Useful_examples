@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<!DOCTYPE order SYSTEM "ExampleXMLDocument.dtd">
+<order>
+<item code = 'BK123'>
+<name>Care and Feeding of Wombats</name>
+<price currency='USD'>Reminder</price>
+</item>
+</order>

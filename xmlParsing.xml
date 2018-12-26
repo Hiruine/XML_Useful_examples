@@ -1,0 +1,37 @@
+<DNREvents>
+    <DEvent>
+        <event eid="1">Wednesday Trail Walks</event>
+        <date>2/03/2016</date>
+        <time>1-2:30 PM</time>
+        <description>...</description>
+        <location>Brown's Creek State Trail</location>
+        <cost>Free</cost>
+        <infoPhone>651-231-6968</infoPhone>
+        <infoEmail>LindaRadimecky@state.mn.us</infoEmail>
+    </DEvent>
+    <DEvent>
+        <event eid="2">BOW - Dog Mushing!</event>
+        <date>2/04/2016 thru 2/07/2016</date>
+        <time>Unknown</time>
+        <description>
+            This off the grid adventure is for those who want to actively participate in every aspect of learning to run your own small team of sled dogs through miles and miles of beautiful trails in the remote wilderness of northern Minnesota. Limited to 4 participants
+        </description>
+        <location>Grand Marais/Hovland</location>
+        <cost>$895</cost>
+        <infoPhone>218-370-0283</infoPhone>
+        <infoEmail>linda@points_unknown.com</infoEmail>
+    </DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+    <DEvent>...</DEvent>
+</DNREvents>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE WeatherReport>
+<WeatherReport>
+    <City>Galati</City>
+    <Date>2012-06-28</Date>
+    <Time>11:00:00-04:00</Time>
+    <CurrTemp unit="Celsius">29</CurrTemp>
+    <High unit="Celsius">37</High>
+    <Low unit="Celsius">21</Low>
+</WeatherReport>
+
