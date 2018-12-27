@@ -1,4 +1,4 @@
-package XMLPresenation;
+package XMLPresenation.nodeInterface;
 /*
 DOCTYPE node:
         <!ELEMENT address (buildingnumber,street,city,state,zip)>
@@ -76,13 +76,14 @@ import org.xml.sax.SAXException;
 public class MainClass {
     public static void main(String args[]) {
         DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
+        // DocumentBuilderFactory - that is a factory API that enables applications to obtain a parser that produces DOM object trees from XML documents.
         builderFactory.setNamespaceAware(true);       // Set namespace aware
-        builderFactory.setValidating(true);           // and validating parser feaures
+        builderFactory.setValidating(true);           // and validating parser.html feaures
         builderFactory.setIgnoringElementContentWhitespace(true);
 
         DocumentBuilder builder = null;
         try {
-            builder = builderFactory.newDocumentBuilder();  // Create the parser
+            builder = builderFactory.newDocumentBuilder();  // Create the parser.html
         } catch(ParserConfigurationException e) {
             e.printStackTrace();
         }

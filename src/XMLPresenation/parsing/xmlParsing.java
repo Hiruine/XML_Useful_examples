@@ -1,4 +1,4 @@
-package XMLPresenation;
+package XMLPresenation.parsing;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
