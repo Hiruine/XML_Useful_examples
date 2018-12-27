@@ -58,3 +58,9 @@ https://en.wikipedia.org/wiki/Shift_JIS
 ## Transform XML into XHTML using XSLT
 
 https://www.w3schools.com/xml/xsl_transformation.asp
+
+## Parsing, Searching elements
+
+https://www.tutorialspoint.com/java_xml/index.htm
+http://homepage.cs.latrobe.edu.au/mjsutherland/WS/current/notes/lecture060_XML_050.html
+
