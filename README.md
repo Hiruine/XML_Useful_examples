@@ -32,10 +32,10 @@ https://en.wikipedia.org/wiki/Uniform_Resource_Identifier
 
 ## The XML DOM is a standard 
 For how to get, change, add, or delete XML elements.
-xmlDoc - the XML DOM object created by the parser.
-getElementsByTagName("title")[0] - get the first <title> element
-childNodes[0] - the first child of the <title> element (the text node)
-nodeValue - the value of the node (the text itself)
+1)  xmlDoc - the XML DOM object created by the parser.
+2)  getElementsByTagName("title")[0] - get the first <title> element
+3)  childNodes[0] - the first child of the <title> element (the text node)
+4)  nodeValue - the value of the node (the text itself)
   
 https://www.w3schools.com/xml/dom_intro.asp
 
