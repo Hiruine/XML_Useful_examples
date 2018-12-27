@@ -1,6 +1,6 @@
 ## XML - Extensible Markup Language
-SGML- Standard Generalized Markup Language
-World Wide Web Consortium (W3C)
+1)  SGML- Standard Generalized Markup Language
+2)  World Wide Web Consortium (W3C)
 
 ## XML versus HTML
 1)	XML was designed to carry data - with focus on what data is
