@@ -48,3 +48,12 @@ https://en.wikipedia.org/wiki/UTF-8
 Is a character encoding for the Japanese language
 
 https://en.wikipedia.org/wiki/Shift_JIS
+
+## Tools for parsing
+1)  Through parsers using the API Java API for XML Processing (JAXP), two parsers are provided with the above API :
+1.1)  Simple API for XML (SAX)        
+1.2)  Document Object Model (DOM).
+2)  Through the new API Java Architecture for XML Binding (JAXB).
+2.2)  Using JDOM an open-source API 
+2.3)  Using Apache Xerces 
+
