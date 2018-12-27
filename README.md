@@ -1,4 +1,4 @@
-# XML
+# XML - Extensible Markup Language
 SGML- Standard Generalized Markup Language
 
 World Wide Web Consortium (W3C)
