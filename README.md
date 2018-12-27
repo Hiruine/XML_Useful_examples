@@ -1,6 +1,8 @@
 ## XML - Extensible Markup Language
 1)  SGML- Standard Generalized Markup Language
 2)  W3C - World Wide Web Consortium 
+3)  IDL - Interface description language, any computer language used to describe a software component's interface
+
 
 https://www.w3schools.com/xml/default.asp
 
