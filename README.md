@@ -2,7 +2,7 @@
 SGML- Standard Generalized Markup Language
 World Wide Web Consortium (W3C)
 
-## XML and HTML were designed with different goals:
+## XML versus HTML
 1)	XML was designed to carry data - with focus on what data is
 2)	HTML was designed to display data - with focus on how data looks
 3)  XML tags are not predefined like HTML tags are
