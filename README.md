@@ -55,3 +55,6 @@ https://en.wikipedia.org/wiki/Shift_JIS
 1)  Through parsers using the API Java API for XML Processing (JAXP), two parsers are provided with the above API : Simple API for XML (SAX) & Document Object Model (DOM).
 2)  Through the new API Java Architecture for XML Binding (JAXB): Using JDOM an open-source API & Using Apache Xerces 
 
+## Transform XML into XHTML using XSLT
+
+https://www.w3schools.com/xml/xsl_transformation.asp
