@@ -27,3 +27,9 @@ xmlDoc - the XML DOM object created by the parser.
 getElementsByTagName("title")[0] - get the first <title> element
 childNodes[0] - the first child of the <title> element (the text node)
 nodeValue - the value of the node (the text itself)
+
+# UTF-8 is the default character encoding for XML documents. 
+A character in UTF8 can be from 1 to 4 bytes long. UTF-8 can represent any character in the Unicode standard. UTF-8 is backwards compatible with ASCII. UTF-8 is the preferred encoding for e-mail and web pages
+
+# Shift JIS (Shift Japanese Industrial Standards, also SJIS, MIME name Shift_JIS) 
+is a character encoding for the Japanese language,
